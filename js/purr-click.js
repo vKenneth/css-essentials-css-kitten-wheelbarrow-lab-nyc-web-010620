@@ -6,4 +6,3 @@ $(function(){
 });
 
 
-<p style="color: blue;"></p>
