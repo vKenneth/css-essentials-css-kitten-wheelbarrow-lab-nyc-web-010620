@@ -23,3 +23,5 @@ RSpec.describe "Kitten Wheelbarrow" do
   end
 
 end
+  @@ -1,2 +1,45 @@
+       -.kitty-1
